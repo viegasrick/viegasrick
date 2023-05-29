@@ -20,4 +20,12 @@
 <img align="center" alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
 <img align="center" alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
 <br> <br>
-Desvendando o infinito potencial do código, tecendo linhas de lógica e criatividade, emaranhando-se nas entrelaçadas tramas de bits e bytes, trazemos à existência um universo digital pulsante, onde a imaginação se funde com a tecnologia, revelando assim a essência da inovação e do progresso
+Desvendando o infinito potencial do código, tecendo linhas de lógica e criatividade, emaranhando-se nas entrelaçadas tramas de bits e bytes, trazemos à existência um universo digital pulsante, onde a imaginação se funde com a tecnologia, revelando assim a essência da inovação e do progresso <br> <br>
+
+
+
+## Contato:
+
+- [Gmail](https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox)
+- [instagram](https://www.instagram.com/rikelmen_viegas/)
+- [linkedln](https://www.linkedin.com/in/rikelmen-viegas-43b260240/)
